@@ -64,14 +64,6 @@ ConversorMoedas/
   🔗 <a href="https://github.com/gamagot">GitHub @gamagot</a><br>
   🔗 <a href="https://www.linkedin.com/in/gabriel-de-jesus-alves/">LinkedIn</a>
 </p>
-
-<h2>Autor</h2>
-<p>
-  Gabriel Alves<br>
-  🔗 <a href="https://github.com/gamagot">GitHub @gamagot</a><br>
-  🔗 <a href="https://www.linkedin.com/in/gabriel-de-jesus-alves/">LinkedIn</a>
-</p>
-
 ---
 
 🔗 **Visite o site:**  
