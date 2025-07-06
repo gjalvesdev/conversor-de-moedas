@@ -65,6 +65,18 @@ ConversorMoedas/
   🔗 <a href="https://www.linkedin.com/in/gabriel-de-jesus-alves/">LinkedIn</a>
 </p>
 
+<h2>Autor</h2>
+<p>
+  Gabriel Alves<br>
+  🔗 <a href="https://github.com/gamagot">GitHub @gamagot</a><br>
+  🔗 <a href="https://www.linkedin.com/in/gabriel-de-jesus-alves/">LinkedIn</a>
+</p>
+
+---
+
+🔗 **Visite o site:**  
+https://gamagot.github.io/conversor-de-moedas/
+
 <blockquote>
   “Design não é só o que parece e o que se sente. Design é como funciona.”<br>
   &mdash; Steve Jobs
