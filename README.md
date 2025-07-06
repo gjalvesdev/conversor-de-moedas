@@ -9,8 +9,6 @@
   <li>Animações suaves e efeito de “luz passando” no fundo</li>
 </ul>
 
-<img src="./assets/preview.png" alt="Preview do conversor de moedas" width="50%">
-
 <h2>Tecnologias</h2>
 <ul>
   <li><strong>HTML5</strong></li>
