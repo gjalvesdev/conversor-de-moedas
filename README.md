@@ -28,17 +28,6 @@ ConversorMoedas/
 └── scripts.js                # Lógica de conversão  
 </pre>
 
-<h2>Como executar</h2>
-<ol>
-  <li>Clone o repositório:<br>
-    <code>git clone https://github.com/gamagot/ConversorMoedas.git</code>
-  </li>
-  <li>Entre na pasta:<br>
-    <code>cd ConversorMoedas</code>
-  </li>
-  <li>Abra <code>index.html</code> no navegador.</li>
-</ol>
-
 <h2>Responsividade &amp; Diferenciais</h2>
 <ul>
   <li><strong>Desktop</strong>: layout centralizado com entrada, selects e botão alinhados</li>
