@@ -9,7 +9,7 @@
   <li>Animações suaves e efeito de “luz passando” no fundo</li>
 </ul>
 
-<img src="./img/screenshot.png" alt="Preview do conversor de moedas" width="50%">
+<img src="./assets/preview.png" alt="Preview do conversor de moedas" width="50%">
 
 <h2>Tecnologias</h2>
 <ul>
